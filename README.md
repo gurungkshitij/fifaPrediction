@@ -29,6 +29,6 @@ The project is broken into two main sections.
 
 - [FiFaPred.Rmd](https://github.com/gurungkshitij/fifaPrediction/blob/master/FiFaPred.Rmd) is the main file 
 - After you download all the files, change the directories of the datasets as you read in the csv files in FifaPred.Rmd 
-- Everythign should run smoothly. Knit the file if you want the pdf/html [report version](https://github.com/gurungkshitij/fifaPrediction/blob/master/FinalReport-Fifa.pdf).
-- The final report is[FinalReport-Fifa.pdf](https://github.com/gurungkshitij/fifaPrediction/blob/master/FinalReport-Fifa.pdf)
+- Everythign should run smoothly. Knit the file if you want the pdf/html report version
+- The final report is [FinalReport-Fifa.pdf](https://github.com/gurungkshitij/fifaPrediction/blob/master/FinalReport-Fifa.pdf)
 
